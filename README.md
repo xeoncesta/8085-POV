@@ -1,2 +1,2 @@
 # 8085-POV
-&lt;b>&lt;i>8085-POV display -Assembly code&lt;/b>&lt;/i>
+Assembly Code and hardware implementation for 8085 MPU based POV Display.
